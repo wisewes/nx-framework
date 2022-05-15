@@ -1,13 +1,14 @@
 import styled from 'styled-components';
+import FooBar from './foo-bar/foo-bar';
 
-const StyledApp = styled.div`
+const StyledApp = styled.main`
   // Your style here
 `;
 
 export function App() {
   return (
     <StyledApp>
-      <p>content goes here</p>
+      <FooBar />
     </StyledApp>
   );
 }
