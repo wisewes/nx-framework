@@ -3,6 +3,8 @@
   "projects": {
     "core": "apps/core",
     "core-e2e": "apps/core-e2e",
+    "dnd": "apps/dnd",
+    "dnd-e2e": "apps/dnd-e2e",
     "hello-tsc": "libs/hello-tsc"
   }
 }
