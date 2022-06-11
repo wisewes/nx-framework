@@ -4,5 +4,6 @@
     "core": "apps/core",
     "core-e2e": "apps/core-e2e",
     "hello-tsc": "libs/hello-tsc"
-  }
+  },
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json"
 }
